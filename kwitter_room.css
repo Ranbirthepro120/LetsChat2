@@ -1,0 +1,25 @@
+body
+{
+    background-color: cyan;
+}
+#addroom
+{
+ 
+    margin-top: 20px;
+    font-variant-caps: small-caps;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: black;
+    color: cyan;
+}
+#logout
+{
+    margin-top: 20px;
+    font-variant-caps: small-caps;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    color: darkcyan;
+}

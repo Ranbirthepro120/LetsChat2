@@ -1,0 +1,50 @@
+body
+{
+    background-color: aquamarine;
+}
+#login_group
+{
+    border-radius: 20px;
+    width: 800px;
+    height: 600px;
+    background-color: darkcyan;
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+#teen
+{
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+}
+#username_prompt
+{
+    font-family: fantasy;
+    font-size: 25px;
+    color: black;
+    font-variant-caps: small-caps;
+}
+#user_name
+{
+    width: 750px;
+    background-color:cyan;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17.5px;
+}
+#login_button
+{
+    margin-top: 20px;
+    font-variant-caps: small-caps;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: black;
+    color: cyan;
+}
+#logo
+{
+    width: 260px;
+    height: 130px;
+}
